@@ -1,0 +1,576 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MEBMS
+build_property.RootNamespace = MEBMS
+build_property.ProjectDir = C:\MEBMS\MEBMS\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\MEBMS\MEBMS
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/MEBMS/MEBMS/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Auth.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XEF1dGguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/DefaultDarkHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XERlZmF1bHREYXJrSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/DefaultDarkSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XERlZmF1bHREYXJrU2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/DefaultLightHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XERlZmF1bHRMaWdodEhlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/DefaultLightSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XERlZmF1bHRMaWdodFNpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Master.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XE1hc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/HeaderLayout/Header/_Menu/_Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXEhlYWRlckxheW91dFxIZWFkZXJcX01lbnVcX01lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/HeaderLayout/Header/_Menu/__Dashboards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXEhlYWRlckxheW91dFxIZWFkZXJcX01lbnVcX19EYXNoYm9hcmRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/HeaderLayout/Header/_Menu/__Layouts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXEhlYWRlckxheW91dFxIZWFkZXJcX01lbnVcX19MYXlvdXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/HeaderLayout/Header/_Menu/__Pages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXEhlYWRlckxheW91dFxIZWFkZXJcX01lbnVcX19QYWdlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/HeaderLayout/Header/_Menu/__PagesAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXEhlYWRlckxheW91dFxIZWFkZXJcX01lbnVcX19QYWdlc0FjY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/HeaderLayout/Header/_Menu/__PagesAuthentication.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXEhlYWRlckxheW91dFxIZWFkZXJcX01lbnVcX19QYWdlc0F1dGhlbnRpY2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/HeaderLayout/Header/_Menu/__PagesGeneral.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXEhlYWRlckxheW91dFxIZWFkZXJcX01lbnVcX19QYWdlc0dlbmVyYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/HeaderLayout/Header/_Menu/__PagesUtilities.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXEhlYWRlckxheW91dFxIZWFkZXJcX01lbnVcX19QYWdlc1V0aWxpdGllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/HeaderLayout/Header/_Menu/__PagesWidgets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXEhlYWRlckxheW91dFxIZWFkZXJcX01lbnVcX19QYWdlc1dpZGdldHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/HeaderLayout/Header/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXEhlYWRlckxheW91dFxIZWFkZXJcX05hdmJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/HeaderLayout/Search/Partials/_AdvancedOptions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXEhlYWRlckxheW91dFxTZWFyY2hcUGFydGlhbHNcX0FkdmFuY2VkT3B0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/HeaderLayout/Search/Partials/_Empty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXEhlYWRlckxheW91dFxTZWFyY2hcUGFydGlhbHNcX0VtcHR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/HeaderLayout/Search/Partials/_FormDropdown.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXEhlYWRlckxheW91dFxTZWFyY2hcUGFydGlhbHNcX0Zvcm1Ecm9wZG93bi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/HeaderLayout/Search/Partials/_Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXEhlYWRlckxheW91dFxTZWFyY2hcUGFydGlhbHNcX01haW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/HeaderLayout/Search/Partials/_Preferences.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXEhlYWRlckxheW91dFxTZWFyY2hcUGFydGlhbHNcX1ByZWZlcmVuY2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/HeaderLayout/Search/Partials/_Results.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXEhlYWRlckxheW91dFxTZWFyY2hcUGFydGlhbHNcX1Jlc3VsdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/HeaderLayout/Search/_Dropdown.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXEhlYWRlckxheW91dFxTZWFyY2hcX0Ryb3Bkb3duLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/HeaderLayout/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXEhlYWRlckxheW91dFxfRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/HeaderLayout/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXEhlYWRlckxheW91dFxfSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/HeaderLayout/_PageTitle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXEhlYWRlckxheW91dFxfUGFnZVRpdGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/HeaderLayout/_Toolbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXEhlYWRlckxheW91dFxfVG9vbGJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/Header/_Menu/_Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcSGVhZGVyXF9NZW51XF9NZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/Header/_Menu/__Dashboards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcSGVhZGVyXF9NZW51XF9fRGFzaGJvYXJkcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/Header/_Menu/__Layouts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcSGVhZGVyXF9NZW51XF9fTGF5b3V0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/Header/_Menu/__Pages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcSGVhZGVyXF9NZW51XF9fUGFnZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/Header/_Menu/__PagesAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcSGVhZGVyXF9NZW51XF9fUGFnZXNBY2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/Header/_Menu/__PagesAuthentication.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcSGVhZGVyXF9NZW51XF9fUGFnZXNBdXRoZW50aWNhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/Header/_Menu/__PagesGeneral.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcSGVhZGVyXF9NZW51XF9fUGFnZXNHZW5lcmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/Header/_Menu/__PagesUtilities.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcSGVhZGVyXF9NZW51XF9fUGFnZXNVdGlsaXRpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/Header/_Menu/__PagesWidgets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcSGVhZGVyXF9NZW51XF9fUGFnZXNXaWRnZXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/Header/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcSGVhZGVyXF9OYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/Search/Partials/_AdvancedOptions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcU2VhcmNoXFBhcnRpYWxzXF9BZHZhbmNlZE9wdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/Search/Partials/_Empty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcU2VhcmNoXFBhcnRpYWxzXF9FbXB0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/Search/Partials/_FormDropdown.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcU2VhcmNoXFBhcnRpYWxzXF9Gb3JtRHJvcGRvd24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/Search/Partials/_Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcU2VhcmNoXFBhcnRpYWxzXF9NYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/Search/Partials/_Preferences.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcU2VhcmNoXFBhcnRpYWxzXF9QcmVmZXJlbmNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/Search/Partials/_Results.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcU2VhcmNoXFBhcnRpYWxzXF9SZXN1bHRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/Search/_Dropdown.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcU2VhcmNoXF9Ecm9wZG93bi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/Sidebar/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcU2lkZWJhclxfRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/Sidebar/_Logo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcU2lkZWJhclxfTG9nby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/Sidebar/_Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcU2lkZWJhclxfTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcX0Zvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcX0hlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/_PageTitle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcX1BhZ2VUaXRsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcX1NpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/Partials/SidebarLayout/_Toolbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFBhcnRpYWxzXFNpZGViYXJMYXlvdXRcX1Rvb2xiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Layout/System.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XFN5c3RlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Pages/Auth/NewPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcQXV0aFxOZXdQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Pages/Auth/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcQXV0aFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Pages/Auth/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcQXV0aFxTaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Pages/Auth/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcQXV0aFxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Pages/Dashboards/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcRGFzaGJvYXJkc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Pages/Dashboards/Management.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcRGFzaGJvYXJkc1xNYW5hZ2VtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Pages/System/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcU3lzdGVtXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Pages/System/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcU3lzdGVtXE5vdEZvdW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Drawers/_ActivityDrawer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcRHJhd2Vyc1xfQWN0aXZpdHlEcmF3ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Drawers/_ChatMessenger.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcRHJhd2Vyc1xfQ2hhdE1lc3Nlbmdlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/General/_ButtonIndicator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcR2VuZXJhbFxfQnV0dG9uSW5kaWNhdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/General/_Notice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcR2VuZXJhbFxfTm90aWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Management/printer_card.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTWFuYWdlbWVudFxwcmludGVyX2NhcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Menus/_Menu1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTWVudXNcX01lbnUxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Menus/_Menu2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTWVudXNcX01lbnUyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Menus/_Menu3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTWVudXNcX01lbnUzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Menus/_NotificationsMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTWVudXNcX05vdGlmaWNhdGlvbnNNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Menus/_QuickLinksMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTWVudXNcX1F1aWNrTGlua3NNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Menus/_UserAccountMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTWVudXNcX1VzZXJBY2NvdW50TWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/CreateApp/Steps/_Step1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXENyZWF0ZUFwcFxTdGVwc1xfU3RlcDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/CreateApp/Steps/_Step2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXENyZWF0ZUFwcFxTdGVwc1xfU3RlcDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/CreateApp/Steps/_Step3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXENyZWF0ZUFwcFxTdGVwc1xfU3RlcDMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/CreateApp/Steps/_Step4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXENyZWF0ZUFwcFxTdGVwc1xfU3RlcDQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/CreateApp/Steps/_Step5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXENyZWF0ZUFwcFxTdGVwc1xfU3RlcDUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/CreateApp/_Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXENyZWF0ZUFwcFxfTWFpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/CreateCampaign/Steps/_Step1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXENyZWF0ZUNhbXBhaWduXFN0ZXBzXF9TdGVwMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/CreateCampaign/Steps/_Step2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXENyZWF0ZUNhbXBhaWduXFN0ZXBzXF9TdGVwMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/CreateCampaign/Steps/_Step3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXENyZWF0ZUNhbXBhaWduXFN0ZXBzXF9TdGVwMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/CreateCampaign/Steps/_Step4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXENyZWF0ZUNhbXBhaWduXFN0ZXBzXF9TdGVwNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/CreateCampaign/Steps/_Step5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXENyZWF0ZUNhbXBhaWduXFN0ZXBzXF9TdGVwNS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/CreateCampaign/_Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXENyZWF0ZUNhbXBhaWduXF9NYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/CreateProject/Steps/_Budget.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXENyZWF0ZVByb2plY3RcU3RlcHNcX0J1ZGdldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/CreateProject/Steps/_Complete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXENyZWF0ZVByb2plY3RcU3RlcHNcX0NvbXBsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/CreateProject/Steps/_Files.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXENyZWF0ZVByb2plY3RcU3RlcHNcX0ZpbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/CreateProject/Steps/_Settings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXENyZWF0ZVByb2plY3RcU3RlcHNcX1NldHRpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/CreateProject/Steps/_Targets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXENyZWF0ZVByb2plY3RcU3RlcHNcX1RhcmdldHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/CreateProject/Steps/_Team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXENyZWF0ZVByb2plY3RcU3RlcHNcX1RlYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/CreateProject/Steps/_Type.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXENyZWF0ZVByb2plY3RcU3RlcHNcX1R5cGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/CreateProject/_Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXENyZWF0ZVByb2plY3RcX01haW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/NewCard/_Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXE5ld0NhcmRcX0Zvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/UsersSearch/Partials/_Empty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXFVzZXJzU2VhcmNoXFBhcnRpYWxzXF9FbXB0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/UsersSearch/Partials/_Results.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXFVzZXJzU2VhcmNoXFBhcnRpYWxzXF9SZXN1bHRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/UsersSearch/Partials/_Suggestions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXFVzZXJzU2VhcmNoXFBhcnRpYWxzXF9TdWdnZXN0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/UsersSearch/_Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXFVzZXJzU2VhcmNoXF9NYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/_InviteFriends.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXF9JbnZpdGVGcmllbmRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/_NewTarget.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXF9OZXdUYXJnZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/_UpgradePlan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXF9VcGdyYWRlUGxhbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Modals/_ViewUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcTW9kYWxzXF9WaWV3VXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/ThemeMode/_Init.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcVGhlbWVNb2RlXF9Jbml0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/ThemeMode/_Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcVGhlbWVNb2RlXF9NYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/ThemeMode/__Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcVGhlbWVNb2RlXF9fTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Cards/_Widget17.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xDYXJkc1xfV2lkZ2V0MTcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Cards/_Widget18.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xDYXJkc1xfV2lkZ2V0MTguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Cards/_Widget20.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xDYXJkc1xfV2lkZ2V0MjAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Cards/_Widget4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xDYXJkc1xfV2lkZ2V0NC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Cards/_Widget7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xDYXJkc1xfV2lkZ2V0Ny5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Charts/_Widget1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xDaGFydHNcX1dpZGdldDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Charts/_Widget24.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xDaGFydHNcX1dpZGdldDI0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Charts/_Widget31.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xDaGFydHNcX1dpZGdldDMxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Charts/_Widget35.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xDaGFydHNcX1dpZGdldDM1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Charts/_Widget36.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xDaGFydHNcX1dpZGdldDM2LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Charts/_Widget5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xDaGFydHNcX1dpZGdldDUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Charts/_Widget8.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xDaGFydHNcX1dpZGdldDguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Charts/_Widget9.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xDaGFydHNcX1dpZGdldDkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Engage/_Widget10.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xFbmdhZ2VcX1dpZGdldDEwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Engage/_Widget2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xFbmdhZ2VcX1dpZGdldDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Lists/_Widget13.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xMaXN0c1xfV2lkZ2V0MTMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Lists/_Widget14.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xMaXN0c1xfV2lkZ2V0MTQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Lists/_Widget15.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xMaXN0c1xfV2lkZ2V0MTUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Lists/_Widget26.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xMaXN0c1xfV2lkZ2V0MjYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Lists/_Widget3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xMaXN0c1xfV2lkZ2V0My5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Tables/_Widget14.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xUYWJsZXNcX1dpZGdldDE0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Tables/_Widget16.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xUYWJsZXNcX1dpZGdldDE2LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Tables/_Widget3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xUYWJsZXNcX1dpZGdldDMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/Widgets/Timeline/_Widget1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcV2lkZ2V0c1xUaW1lbGluZVxfV2lkZ2V0MS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/_Drawers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcX0RyYXdlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/_Modals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcX01vZGFscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Partials/_Scrolltop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcX1Njcm9sbHRvcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MEBMS/MEBMS/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ovd5r9g5s2
